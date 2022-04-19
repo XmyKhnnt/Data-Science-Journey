@@ -16,4 +16,21 @@ print(2-1)
 # 2/1
 print(2/1) # Note *Division will produce float value 
 
-# 
+# Floor division
+# //
+print(11//2) # Will produce an int
+
+
+# Multiplication
+# *
+print(1*3) # Will produce an int
+
+# Exponentiation
+# **
+print(2*3) 
+
+# Modulus
+# %
+print(20 % 6)
+
+
