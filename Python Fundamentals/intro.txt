@@ -1,0 +1,2 @@
+This contains my understanding in python fundamentals 
+please correct me if there is something wrong with what I understand
