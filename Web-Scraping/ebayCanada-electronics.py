@@ -1,7 +1,7 @@
 # Extract data ffrom https://www.newegg.ca/
 # Brand, Gadget Name, Price, Shipping fee
 # Needed Modules
-from re import X
+
 from bs4 import BeautifulSoup
 import numpy as np
 from pyparsing import Regex
